@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **teodor.workj@gmail.com**
 
-- 📄 CV to know about my experiences [https://t.ly/0eHaK](https://t.ly/0eHaK)
+- 📄 CV to know about my experiences [https://rb.gy/o0sits)
 
 - ⚡ Fun fact about me: **I strive for greatness**
 
