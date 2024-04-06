@@ -9,7 +9,7 @@
 
 <h2 align="center">👨🏼‍🎓 Pre-Graduate student in Computer Science</h2>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **ByteCoin**
 
 - 👨‍💻 I’m currently mastering **iOS Development**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **teodor.workj@gmail.com**
 
-- 📄 CV to know about my experiences -> https://rb.gy/o0sits
+- 📄 CV to know about my experiences -> [https://rb.gy/o0sits](https://teodor-todorov-cv.tiiny.site)
 
 - ⚡ Fun fact about me: **I strive for greatness**
 
