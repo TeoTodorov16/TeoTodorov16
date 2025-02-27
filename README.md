@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **ByteCoin**
 
-- 👨‍💻 I’m currently mastering **iOS Development**
+- 👨‍💻 I’m currently mastering **React ⚛️**
 
 - 💬 Ask me **anything**
 
